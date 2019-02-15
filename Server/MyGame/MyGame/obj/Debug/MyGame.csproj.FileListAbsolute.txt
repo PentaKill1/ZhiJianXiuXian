@@ -1,0 +1,8 @@
+G:\OurGame\Server\MyGame\MyGame\bin\Debug\MyGame.exe.config
+G:\OurGame\Server\MyGame\MyGame\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
+G:\OurGame\Server\MyGame\MyGame\bin\Debug\MyGame.exe
+G:\OurGame\Server\MyGame\MyGame\bin\Debug\MyGame.pdb
+G:\OurGame\Server\MyGame\MyGame\bin\Debug\common.dll
+G:\OurGame\Server\MyGame\MyGame\bin\Debug\common.pdb
+G:\OurGame\Server\MyGame\MyGame\obj\Debug\MyGame.exe
+G:\OurGame\Server\MyGame\MyGame\obj\Debug\MyGame.pdb

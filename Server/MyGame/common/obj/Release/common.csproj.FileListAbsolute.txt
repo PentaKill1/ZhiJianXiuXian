@@ -1,0 +1,10 @@
+G:\OurGame\Server\MyGame\common\bin\Release\common.dll
+G:\OurGame\Server\MyGame\common\bin\Release\common.pdb
+G:\OurGame\Server\MyGame\common\obj\Release\common.csprojResolveAssemblyReference.cache
+G:\OurGame\Server\MyGame\common\obj\Release\common.dll
+G:\OurGame\Server\MyGame\common\obj\Release\common.pdb
+G:\work\Server\MyGame\common\bin\Release\common.dll
+G:\work\Server\MyGame\common\bin\Release\common.pdb
+G:\work\Server\MyGame\common\obj\Release\common.csprojResolveAssemblyReference.cache
+G:\work\Server\MyGame\common\obj\Release\common.dll
+G:\work\Server\MyGame\common\obj\Release\common.pdb

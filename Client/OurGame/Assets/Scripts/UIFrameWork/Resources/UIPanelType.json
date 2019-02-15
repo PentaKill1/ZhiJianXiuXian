@@ -1,0 +1,40 @@
+{
+	"infoList":
+	[
+		{"panelTypeString":"MainMenu",
+		"path":"UIPanel/MainMenuPanel"},
+
+		{"panelTypeString":"PlayerState",
+		"path":"UIPanel/PlayerStatePanel"},
+
+        {"panelTypeString":"Battle",
+		"path":"UIPanel/BattlePanel"},
+
+		{"panelTypeString":"Practice",
+		"path":"UIPanel/PracticePanel"},
+
+		{"panelTypeString":"Pet",
+		"path":"UIPanel/PetPanel"},
+
+		{"panelTypeString":"Factions",
+		"path":"UIPanel/FactionsPanel"},
+
+		{"panelTypeString":"More",
+		"path":"UIPanel/MorePanel"},
+
+		{"panelTypeString":"Login",
+		"path":"UIPanel/LoginPanel"},
+
+        {"panelTypeString":"Register",
+		"path":"UIPanel/RegisterPanel"},
+
+        {"panelTypeString":"Create",
+		"path":"UIPanel/CreatePanel"},
+
+        {"panelTypeString":"LiLian",
+		"path":"UIPanel/LiLianPanel"},
+
+		{"panelTypeString":"Inventory",
+		"path":"UIPanel/InventoryPanel"}
+	]
+}
